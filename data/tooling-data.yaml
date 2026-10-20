@@ -3534,3 +3534,5 @@
   homepage: 'https://github.com/clairey-zx81/json-model'
   supportedDialects:
     draft: ['2020-12']
+
+# test entry for workflow run
